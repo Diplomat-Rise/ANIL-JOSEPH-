@@ -42,6 +42,8 @@ FN:ANIL JOSEPH
 TITLE:Sales Manager
 ORG:RISE Properties
 TEL;TYPE=WORK,VOICE:+971508491296
+TEL;TYPE=WORK,VOICE:+971521569942
+TEL;TYPE=WORK,VOICE:+97145665109 
 EMAIL:Anil@riseproperties.ae
 URL:http://www.riseproperties.ae
 ADR;TYPE=WORK:;;PO Box No 455979, Office NO.1607, Opal Tower, Business Bay;Dubai;;UAE
